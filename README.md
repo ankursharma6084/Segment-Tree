@@ -1,6 +1,7 @@
 # Segment-Tree
 CSES Problem Max Range query and update in segment tree
 
+```
 
 Given an array of n integers, your task is to process q queries of the following types:
 update the value at position k to u
